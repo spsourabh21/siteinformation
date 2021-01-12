@@ -1,0 +1,12 @@
+siteinformation.content:
+  path: '/page_json/{siteKeyApi}/{nodeId}'
+  defaults:
+    _controller: '\Drupal\siteinformation\Controller\PageJSONController::jsonContent'
+  options:
+    parameters:
+      siteKeyApi:
+        type: string
+      nodeId:
+        type: int
+  requirements:
+    _permission: 'access content'

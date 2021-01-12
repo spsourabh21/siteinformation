@@ -1,0 +1,4 @@
+name: Site Information Edit
+type: module
+core: '8.x'
+description: Edit Site Information By Extending Site Information Form
