@@ -17,15 +17,12 @@ This module needs to alter the existing Drupal "Site Information" form. Specific
 
 http://localhost/page_json/FOOBAR12345/17
 
-# Test Evaluation:
+# Resources
 
-* Meeting above requirements
-* Utilising Drupal-specific solutions (hooks, APIs, etc.))
-* Readability of code
-* Clear, concise commenting
-* List of resources used if any (Internet sites, books, previous knowledge) Total time to complete task
+* Previously Known Creation of Module in Drupal 8
+* https://www.drupal.org/docs/drupal-apis/configuration-api/simple-configuration-api
+* https://drupal.stackexchange.com/questions/156703/how-can-i-add-a-textbox-in-site-information-configuration
+* https://www.drupal.org/forum/support/post-installation/2019-02-06/add-a-new-custom-field-to-site-infomation-form-in-drupal8
 
-# Test Submission:
-
-* Set up your github.com account if you don't already have one.
-* Push the module as a public repo in GitHub and submit the link to it below. * *
+# Time Taken:
+The approximate time taken to implement this module was 8 hours.
